@@ -1,5 +1,5 @@
 # Modal window
-##### Project for people like me who don't like to to them. Although you should give it a try...
+##### Project for people like me who don't like to do them. Although you should give it a try...
 
 It's a simple vanilla project:
 * Javascript
